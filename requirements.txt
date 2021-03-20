@@ -39,7 +39,7 @@ gunicorn==20.0.4
 idna==2.8
 isodate==0.6.0
 itsdangerous==1.1.0
-Jinja2==2.11.0
+Jinja2==2.11.3
 jsonpickle==1.2
 kiwisolver==1.1.0
 kneed==0.5.3
