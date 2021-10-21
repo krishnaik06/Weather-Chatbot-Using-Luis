@@ -10,7 +10,7 @@ azure-common==1.1.25
 azure-cosmos==3.1.2
 azure-storage-blob==2.1.0
 azure-storage-common==2.1.0
-Babel==2.7.0
+Babel==2.9.1
 botbuilder-ai==4.8.0
 botbuilder-applicationinsights==4.8.0
 botbuilder-azure==4.8.0
