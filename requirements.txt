@@ -18,7 +18,7 @@ botbuilder-core==4.8.0
 botbuilder-dialogs==4.8.0
 botbuilder-schema==4.8.0
 botframework-connector==4.8.0
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 Click==7.0
